@@ -2,7 +2,7 @@
 
 A comprehensive data cleaning and preprocessing project using Python (Pandas, NumPy) and Jupyter Notebooks. This project demonstrates real-world data quality issues and practical solutions for transforming messy data into a clean, analysis-ready dataset.
 
-## 📋 Project Overview
+##  Project Overview
 
 This portfolio project tackles a common data science challenge: **cleaning and transforming a messy Nigeria sales dataset**. The dataset contains 550 sales records with multiple data quality issues including missing values, inconsistent formatting, and calculation errors. Through systematic exploration and transformation, I've documented every step using Git and GitHub to showcase my data cleaning methodology.
 
@@ -12,7 +12,7 @@ This portfolio project tackles a common data science challenge: **cleaning and t
 - **Final Columns:** 8 (Order ID dropped due to high missing rate)
 - **Date Range:** July 2023 - July 2025
 
-## 🔍 Data Quality Issues Identified & Fixed
+##  Data Quality Issues Identified & Fixed
 
 ### 1. **Missing Values**
 | Column | Missing Count | Strategy |
@@ -38,7 +38,7 @@ This portfolio project tackles a common data science challenge: **cleaning and t
 - Numerical columns validated as float64
 - Categorical columns maintained as object type
 
-## 📊 Key Statistics (Cleaned Dataset)
+##  Key Statistics (Cleaned Dataset)
 
 ```
 Dataset Dimensions: 550 rows × 8 columns
@@ -57,7 +57,7 @@ Total Sale:
   - Range: ₦57,887.04 - ₦28,734,590
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 excel-data-cleaning-Nigeria-sales/
@@ -71,7 +71,7 @@ excel-data-cleaning-Nigeria-sales/
 └── .gitignore                             # Git ignore rules
 ```
 
-## 🛠️ Technologies & Tools Used
+##  Technologies & Tools Used
 
 - **Python 3.x** - Primary programming language
 - **Pandas** - Data manipulation & transformation
@@ -81,7 +81,7 @@ excel-data-cleaning-Nigeria-sales/
 - **Git & GitHub** - Version control & collaboration
 - **Microsoft Excel** - Initial data inspection
 
-## 📝 Cleaning Methodology
+##  Cleaning Methodology
 
 The project follows a systematic data cleaning pipeline:
 
@@ -112,7 +112,7 @@ The project follows a systematic data cleaning pipeline:
    - Saved cleaned dataset to CSV format
    - Ready for analysis and modeling
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 ```bash
@@ -136,7 +136,7 @@ print(df.info())
 print(df.describe())
 ```
 
-## 📈 Next Steps & Future Enhancements
+##  Next Steps & Future Enhancements
 
 This project is **actively under development**. Planned improvements include:
 
@@ -166,7 +166,7 @@ This project is **actively under development**. Planned improvements include:
   - Sales performance scoring
   - Regional profitability analysis
 
-## 💡 Key Learnings & Skills Demonstrated
+##  Key Learnings & Skills Demonstrated
 
 ✅ **Data Cleaning & Validation** - Identified and resolved data quality issues  
 ✅ **Missing Data Handling** - Applied statistical methods for imputation  
@@ -176,7 +176,7 @@ This project is **actively under development**. Planned improvements include:
 ✅ **Version Control** - Documented every step with meaningful Git commits  
 ✅ **Documentation** - Comprehensive project documentation for reproducibility  
 
-## 📊 Data Quality Improvements Summary
+##  Data Quality Improvements Summary
 
 | Metric | Before | After |
 |--------|--------|-------|
@@ -186,16 +186,16 @@ This project is **actively under development**. Planned improvements include:
 | **Valid Calculations** | ~25% | 100% |
 | **Ready for Analysis** | ❌ | ✅ |
 
-## 👤 Author
+##  Author
 
 **Conrad Nats** - Data Science & Analytics Student (Year 2)
 
-## 📞 Connect With Me
+##  Connect With Me
 
 - **GitHub:** [@ConradNats](https://github.com/ConradNats)
 - **Portfolio Project:** Cleaning and transforming real-world data for practical experience
 
-## 📄 License
+##  License
 
 This project is open source and available for educational and portfolio purposes.
 
